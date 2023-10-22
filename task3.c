@@ -8,5 +8,5 @@ int main(){
 		sum+=score[n];
 		}
 	avg=sum/size;
-	printf ("Your average score is %.2f",avg);
+	printf ("Your average score is %.2f",avg);
 	}
